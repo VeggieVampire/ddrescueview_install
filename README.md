@@ -7,5 +7,5 @@ git https://github.com/VeggieVampire/ddrescueview_install<br>
 cd ddrescueview_install<br>
 ./install.sh<br>
 <br>
-#Info
+# Info<br>
 ddrescueview is Copyrighted by Martin Bittermann <martinbittermann@gmx.de> with License: GPL-3.0+
